@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Fast and The Furious 1",
+      "image": "../img/fast1.jpg",
+      "selected": false
+    },
+    {
+      "id": 2,
+      "name": "Fast and The Furious 2",
+      "image": "../img/fast2.jpg",
+      "selected": false      
+    },
+    {
+      "id": 3,
+      "name": "Fast and The Furious 3",
+      "image": "../img/fast3.jpg",
+      "selected": false      
+    },
+    {
+      "id": 4,
+      "name": "Harry Potter 1",
+      "image": "../img/harry1.jpg",
+      "selected": false      
+    },
+    {
+      "id": 5,
+      "name": "Harry Potter 2",
+      "image": "../img/harry2.jpg",
+      "selected": false      
+    },
+    {
+      "id": 6,
+      "name": "Harry Potter 3",
+      "image": "../img/harry3.jpg",
+      "selected": false      
+    },
+    {
+      "id": 7,
+      "name": "Matrix 1",
+      "image": "../img/matrix1.jpg",
+      "selected": false      
+    },
+    {
+      "id": 8,
+      "name": "Matrix 2",
+      "image": "../img/matrix2.jpg",
+      "selected": false      
+    },
+    {
+      "id": 9,
+      "name": "Matrix 3",
+      "image": "../img/matrix3.jpg",
+      "selected": false      
+    },
+    {
+      "id": 10,
+      "name": "Pulp Fiction 1",
+      "image": "../img/pulp1.jpg",
+      "selected": false      
+    },
+    {
+      "id": 11,
+      "name": "Pulp Fiction 2",
+      "image": "../img/pulp2.jpg",
+      "selected": false      
+    },
+    {
+      "id": 12,
+      "name": "Pulp Fiction 3",
+      "image": "../img/pulp3.jpg",
+      "selected": false      
+    }
+  ]
+  
