@@ -10,7 +10,7 @@ Try not to click on the same photo twice! Test your Memory!
 
 App has been developed with React.
 
-To run this app - "npm install"
+To run this app - "yarn install"
 
-Then "npm start"
+Then "yarn start"
 
