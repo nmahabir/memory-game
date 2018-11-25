@@ -54,7 +54,7 @@ class App extends Component {
     } else {
       this.setState({
         images,
-        statement: "You guessed incorrectly!",
+        option: "You guessed incorrectly!",
         score: 0,
         selected: []
       });
